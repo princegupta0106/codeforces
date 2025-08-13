@@ -5,6 +5,7 @@ int main() {
     int n, k, l, c, d, p, nl, np;
     cin >> n;
     cin >> k;
+    
     cin >> l;
     cin >> c;
     cin >> d;
