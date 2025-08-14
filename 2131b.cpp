@@ -13,6 +13,7 @@ int main() {
 
         if (n == 2) {
             cout << "-1 2\n";
+            
             continue;
         }
         if (n%2){
